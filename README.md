@@ -1,5 +1,5 @@
 ### Hi there, I'm Afiv Dicky Efendy 👋
-## I'm a College Student and Developer !!
+## I'm a College Student !!
 
 - 🔭 I just launched my first step
 - 🌱 I’m currently learning everything 
