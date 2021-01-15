@@ -4,7 +4,7 @@
 - 🔭 I just launched my first step
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking for work
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Watching Film and Playing Game
 
 ### Connect with me:
