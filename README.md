@@ -1,7 +1,7 @@
 ### Hi there, I'm Afiv Dicky Efendy 👋
-## I'm a Mobile Developer.
+## Mobile Developer.
 
-- 🔭 I just launched my first step
+- 🔭 I just launched my app on google play store
 - 🌱 I’m currently learning flutter 
 - 👯 I’m looking for work
 - 🥅 2021 Goals: Contribute more to Open Source projects
