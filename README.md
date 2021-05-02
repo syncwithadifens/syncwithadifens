@@ -1,11 +1,11 @@
 ### Hi there, I'm Afiv Dicky Efendy 👋
-## I'm a College Student !!
+## I'm a Mobile Developer.
 
 - 🔭 I just launched my first step
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning flutter 
 - 👯 I’m looking for work
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Watching Film and Playing Game
+- ⚡ Fun fact: I love Watching Movie and Playing Game
 
 ### Connect with me:
 
