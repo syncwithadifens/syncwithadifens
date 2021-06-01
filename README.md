@@ -53,4 +53,3 @@
 [youtube]: https://www.youtube.com/channel/UCtboq_oYdHOPjKrkS6LAKbw
 [instagram]: https://www.instagram.com/afivdickyefendy/
 [linkedin]: https://www.linkedin.com/in/afivdickyefendy/
-[webdevplaylist]: #
