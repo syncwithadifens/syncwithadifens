@@ -39,11 +39,6 @@
 <br />
 <br />
 
----
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adifens&show_icons=true&hide_border=true" />
-
-
 [website]: https://afivdickyefendy.medium.com/
 [twitter]: https://twitter.com/ThisIsAdifens
 [youtube]: https://www.youtube.com/channel/UCtboq_oYdHOPjKrkS6LAKbw
