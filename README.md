@@ -3,7 +3,7 @@
 
 - 🔭 I just launched my app on google play store
 - 🌱 I’m currently learning flutter 
-- 👯 I’m looking for work
+- 👯 I’m looking for collaboration
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love Watching Movie and Playing Game
 
