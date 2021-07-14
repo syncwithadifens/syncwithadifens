@@ -1,4 +1,4 @@
-### Hi there, I'm Afiv Dicky Efendy 👋
+# Hi there, I'm Afiv Dicky Efendy 👋
 ## Mobile Developer.
 
 - 🔭 I just launched my app on google play store
