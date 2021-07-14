@@ -40,10 +40,13 @@
 <br />
 
 ---
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adifens&row=2&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="adifens" /></a></p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adifens&show_icons=true&theme=dracula" />
-</a>
+  </a><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adifens&row=2&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="adifens" /></a>
+</p>
+
 
 [website]: https://afivdickyefendy.medium.com/
 [twitter]: https://twitter.com/ThisIsAdifens
