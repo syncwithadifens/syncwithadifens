@@ -1,3 +1,4 @@
+## About Me
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=22&center=true&vCenter=true&lines=Hello+There!+%F0%9F%91%8B;This+is+Afiv+Dicky+Efendy...;A+passionate+mobile+developer.;Nice+to+meet+you!" />
@@ -5,22 +6,10 @@
 </h1>
 
 - 🔭 I'm looking for work
-- 🌱 I’m familiar with flutter 
-- 👯 I’m looking for collaboration
+- :desktop_computer: I’m familiar with flutter 
+- :handshake:	 I’m looking for collaboration
 - 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love Watching Movie and Playing Game
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-<hr>
+<br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -47,9 +36,7 @@
     <code><img title="PHP" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/php.svg"></code>
     <code><img title="Flask" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/flask.png"></code>
 </p>
-<hr>
-
-
+<br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
@@ -76,3 +63,11 @@
 [youtube]: https://www.youtube.com/channel/UCtboq_oYdHOPjKrkS6LAKbw
 [instagram]: https://www.instagram.com/afivdickyefendy/
 [linkedin]: https://www.linkedin.com/in/afivdickyefendy/
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
