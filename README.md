@@ -42,27 +42,27 @@
 <p align="center">
   <div align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width="396" src="https://github-readme-streak-stats.herokuapp.com/?user=adifens&theme=react&border=61dafb&hide_border=true" alt="adifens" />
+      <img align="left" width="396" src="https://github-readme-streak-stats.herokuapp.com/?user=withadifens&theme=react&border=61dafb&hide_border=true" alt="adifens" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="396" src="https://github-readme-stats.vercel.app/api?username=adifens&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width="396" src="https://github-readme-stats.vercel.app/api?username=withadifens&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br/><br/><br/><br/><br/><br/><br /><br /><br />
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adifens&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"  alt=""/>
+      <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=withadifens&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"  alt=""/>
     </a>
   </div>
   <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=adifens&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"  alt="graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=withadifens&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"  alt="graph"/>
 </p>
 
 [website]: https://afivdickyefendy.medium.com/
-[twitter]: https://twitter.com/ThisIsAdifens
+[twitter]: https://twitter.com/withadifens
 [youtube]: https://www.youtube.com/channel/UCtboq_oYdHOPjKrkS6LAKbw
-[instagram]: https://www.instagram.com/afivdickyefendy/
-[linkedin]: https://www.linkedin.com/in/afivdickyefendy/
+[instagram]: https://www.instagram.com/withadifens/
+[linkedin]: https://www.linkedin.com/in/withadifens/
 
 ### Connect with me:
 
