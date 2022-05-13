@@ -13,28 +13,20 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-    <code><img title="Typescript" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/typescript.svg"></code>
     <code><img title="Javascript" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/javascript.svg"></code>
     <code><img title="Python" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/python-original.svg"></code>
-    <code><img title="Django" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/django.png"></code>
     <code><img title="Problem Solving" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/problemSolving.png"></code>
     <code><img title="HTML5" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/html5.svg"></code>
     <code><img title="CSS" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/css.svg"></code>
-    <code><img title="SASS" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/sass.svg"></code>
-    <code><img title="Gulp" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/gulp.svg"></code>
-    <code><img title="React" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/react-original.svg"></code>
-    <code><img title="Redux" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/redux.svg"></code>
     <code><img title="Git" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/git-original.svg"></code>
     <code><img title="PostgreSQL" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/postgresql.svg"></code>
     <code><img title="Visual Studio Code" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/vscode.png"></code>
-    <code><img title="JQuery" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/jquery-original.svg"></code>
     <code><img title="JSON" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/json.svg"></code>
     <code><img title="Android" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/android.svg"></code>
     <code><img title="GitHub" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/github.svg"></code>
     <code><img title="MySQL" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/mysql.svg"></code>
     <code><img title="npm" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/npm.svg"></code>
     <code><img title="PHP" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/php.svg"></code>
-    <code><img title="Flask" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/flask.png"></code>
 </p>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
