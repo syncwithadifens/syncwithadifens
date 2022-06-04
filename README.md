@@ -34,14 +34,14 @@
 <p align="center">
   <div>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img width="426px" src="https://github-readme-streak-stats.herokuapp.com/?user=withadifens&theme=react&border=61dafb&hide_border=true"/>
+      <img width="426px" src="https://github-readme-streak-stats.herokuapp.com/?user=withadifens&theme=react&border=61dafb&hide_border=true" />
     </a>
      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="400px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=withadifens&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+      <img width="410px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=withadifens&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=withadifens&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=withadifens&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   <img src="https://activity-graph.herokuapp.com/graph?username=withadifens&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"  alt="graph"/>
 </p>
