@@ -41,7 +41,7 @@
     </a>
   </div>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=withadifens&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=withadifens&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   <img src="https://activity-graph.herokuapp.com/graph?username=withadifens&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"  alt="graph"/>
 </p>
