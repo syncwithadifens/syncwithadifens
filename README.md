@@ -37,7 +37,7 @@
       <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=withadifens&theme=react&border=61dafb&hide_border=true"/>
     </a>
      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="400px" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=withadifens&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+      <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=withadifens&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
     </a>
   </div>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
