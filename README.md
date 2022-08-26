@@ -8,7 +8,7 @@
 - 🔭 I'm looking for work
 - :desktop_computer: I’m familiar with flutter 
 - :handshake:	 I’m looking for collaboration
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source Projects
 <br>
 <h2 align="center">🔥 Languages & Frameworks 🔥</h2>
 <br>
