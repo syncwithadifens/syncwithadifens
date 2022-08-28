@@ -14,19 +14,13 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://afivdickyefendy.medium.com/)
-[![website](./img/globe-dark.svg)](https://afivdickyefendy.medium.com/)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCtboq_oYdHOPjKrkS6LAKbw)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCtboq_oYdHOPjKrkS6LAKbw)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/withadifens)
-[![website](./img/twitter-dark.svg)](https://twitter.com/withadifens)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/withadifens/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/withadifens/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/withadifens/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/withadifens/)
 
 <h2 align="center">🔥 Languages & Frameworks 🔥</h2>
 <br />
