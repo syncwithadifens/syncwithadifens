@@ -5,10 +5,11 @@
   </a>
 </h1>
 
-- 🔭 I'm looking for work
-- :desktop_computer: I’m familiar with flutter 
-- :handshake:	 I’m looking for collaboration
-- 🥅 2022 Goals: Contribute to Open Source Projects
+🔭 I'm looking for work <br>
+:desktop_computer: I’m familiar with flutter <br>
+:handshake:	 I’m looking for collaboration <br>
+🥅 2022 Goals: Contribute to Open Source Projects
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
@@ -25,6 +26,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
 <br>
 <h2 align="center">🔥 Languages & Frameworks 🔥</h2>
 <br>
@@ -32,17 +34,18 @@
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withadifens&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a><br>
+<p>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=withadifens&theme=react&border=61dafb&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=withadifens&theme=vue&border=61dafb&hide_border=true" />
     </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img src="https://github-readme-stats.vercel.app/api?username=withadifens&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=withadifens&show_icons=true&theme=buefy&border_color=61dafb&hide_border=true" />
     </a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=withadifens&theme=react-dark&bg_color=20232a&hide_border=true"  alt="graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=withadifens&theme=aura_dark&bg_color=ffffff&hide_border=true"  alt="graph"/>
+  <details>
+  <summary>🚀 Most Used Language</summary>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withadifens&langs_count=7&theme=swift&bg_color=ffffff&border_color=61dafb&hide_border=true" /></a>
+  </details>
 </p>
 
 [website]: https://afivdickyefendy.medium.com/
