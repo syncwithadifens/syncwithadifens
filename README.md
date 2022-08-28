@@ -92,7 +92,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <p>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats"title="Go to Source"><img src="https://github-readme-streak-stats.herokuapp.com/?user=withadifens&theme=vue&border=61dafb&hide_border=true" width="50%"/>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"title="Go to Source"><img src="https://github-readme-streak-stats.herokuapp.com/?user=withadifens&theme=vue&border=61dafb&hide_border=true" width="45%"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats"
     title="Go to Source"><img src="https://github-readme-stats.vercel.app/api?username=withadifens&show_icons=true&theme=buefy&border_color=61dafb&hide_border=true"width="50%"/>
