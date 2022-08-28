@@ -91,7 +91,7 @@
 <br />
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
-<p>
+<p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats"title="Go to Source"><img src="https://github-readme-streak-stats.herokuapp.com/?user=withadifens&theme=vue&border=61dafb&hide_border=true" width="45%"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats"
