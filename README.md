@@ -94,7 +94,7 @@
   </a>
   <img src="https://activity-graph.herokuapp.com/graph?username=withadifens&theme=react-dark&bg_color=ffffff&hide_border=true" alt="graph"/>
   <details>
-    <summary>🚀 Most Used Language</summary>
+    <summary>🚀 Most Used Languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats"
       ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withadifens&langs_count=7&theme=swift&bg_color=ffffff&border_color=61dafb&hide_border=true"
     /></a>
