@@ -6,10 +6,10 @@
   </a>
 </h1>
 
-🔭 I'm looking for work <br />
-:desktop_computer: I’m familiar with flutter <br />
-:handshake: I’m looking for collaboration <br />
-🥅 2022 Goals: Contribute to Open Source Projects
+🔭&nbsp;&nbsp;I'm looking for work <br />
+💻&nbsp;&nbsp;I’m familiar with flutter <br />
+🤝&nbsp;&nbsp;I’m looking for collaboration <br />
+🥅&nbsp;&nbsp;Contribute to Open Source Projects
 
 ### Connect with me:
 
