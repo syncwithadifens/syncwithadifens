@@ -87,16 +87,16 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats"title="Go to Source"><img src="https://github-readme-streak-stats.herokuapp.com/?user=withadifens&theme=vue&border=61dafb&hide_border=true" width="45%"/>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"title="Go to Source"><img src="https://github-readme-streak-stats.herokuapp.com/?user=syncwadifens&theme=vue&border=61dafb&hide_border=true" width="45%"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats"
-    title="Go to Source"><img src="https://github-readme-stats.vercel.app/api?username=withadifens&show_icons=true&theme=buefy&border_color=61dafb&hide_border=true"width="50%"/>
+    title="Go to Source"><img src="https://github-readme-stats.vercel.app/api?username=syncwadifens&show_icons=true&theme=buefy&border_color=61dafb&hide_border=true"width="50%"/>
   </a>
   <img src="https://activity-graph.herokuapp.com/graph?username=withadifens&theme=react&bg_color=ffffff&hide_border=true" alt="graph"/>
   <details>
     <summary>🚀 Most Used Languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats"
-      ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withadifens&langs_count=7&theme=swift&bg_color=ffffff&border_color=61dafb&hide_border=true"
+      ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syncwadifens&langs_count=7&theme=swift&bg_color=ffffff&border_color=61dafb&hide_border=true"
     /></a>
   </details>
 </p>
