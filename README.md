@@ -17,11 +17,11 @@
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCtboq_oYdHOPjKrkS6LAKbw)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/withadifens)
+[![website](./img/twitter-light.svg)](https://twitter.com/syncwithadifens)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/withadifens/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/syncwithadifens/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/withadifens/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/syncwithadifens/)
 
 <h2 align="center">🔥 Languages & Frameworks 🔥</h2>
 <br />
@@ -87,16 +87,16 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats"title="Go to Source"><img src="https://github-readme-streak-stats.herokuapp.com/?user=syncwadifens&theme=vue&border=61dafb&hide_border=true" width="45%"/>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"title="Go to Source"><img src="https://github-readme-streak-stats.herokuapp.com/?user=syncwithadifens&theme=vue&border=61dafb&hide_border=true" width="45%"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats"
-    title="Go to Source"><img src="https://github-readme-stats.vercel.app/api?username=syncwadifens&show_icons=true&theme=buefy&border_color=61dafb&hide_border=true"width="50%"/>
+    title="Go to Source"><img src="https://github-readme-stats.vercel.app/api?username=syncwithadifens&show_icons=true&theme=buefy&border_color=61dafb&hide_border=true"width="50%"/>
   </a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=syncwadifens&theme=react&bg_color=ffffff&hide_border=true" alt="graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=syncwithadifens&theme=react&bg_color=ffffff&hide_border=true" alt="graph"/>
   <details>
     <summary>🚀 Most Used Languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats"
-      ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syncwadifens&langs_count=7&theme=swift&bg_color=ffffff&border_color=61dafb&hide_border=true"
+      ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syncwithadifens&langs_count=7&theme=swift&bg_color=ffffff&border_color=61dafb&hide_border=true"
     /></a>
   </details>
 </p>
