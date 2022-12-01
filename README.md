@@ -100,8 +100,7 @@
     /></a>
   </details>
 </p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/syncwithadifens/count.svg" />
-</p>
+<details>
+ <summary>🚀 Visitor count</summary>
+ <p><img src="https://profile-counter.glitch.me/syncwithadifens/count.svg" /></p>
+</details>
