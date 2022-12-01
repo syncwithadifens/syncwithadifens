@@ -101,6 +101,6 @@
   </details>
 </p>
 <details>
- <summary>🚀 Visitor count</summary>
+ <summary>🚀 Visitor Count</summary>
  <p><img src="https://profile-counter.glitch.me/syncwithadifens/count.svg" /></p>
 </details>
