@@ -92,7 +92,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"
     title="Go to Source"><img src="https://github-readme-stats.vercel.app/api?username=syncwithadifens&show_icons=true&theme=buefy&border_color=61dafb&hide_border=true"width="50%"/>
   </a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=syncwithadifens&theme=react&bg_color=ffffff&hide_border=true" alt="graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=syncwadifens&theme=react&bg_color=ffffff&hide_border=true" alt="graph"/>
   <details>
     <summary>🚀 Most Used Languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats"
