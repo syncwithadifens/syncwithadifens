@@ -93,13 +93,17 @@
     title="Go to Source"><img src="https://github-readme-stats.vercel.app/api?username=syncwithadifens&show_icons=true&theme=buefy&border_color=61dafb&hide_border=true"width="50%"/>
   </a>
   <img src="https://activity-graph.herokuapp.com/graph?username=syncwithadifens&theme=react&bg_color=ffffff&hide_border=true" alt="graph"/>
-  <details>
+</p>
+ <details>
+    <summary>🚀 Dev Cards</summary>
+    <a href="https://app.daily.dev/syncwithadifens"><img src="https://api.daily.dev/devcards/5ee0473d13854ad8b3c154897c67b778.png?r=6a6" width="400" alt="Afiv Dicky Efendy's Dev Card"/></a>
+  </details>
+   <details>
     <summary>🚀 Most Used Languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats"
       ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syncwithadifens&langs_count=7&theme=swift&bg_color=ffffff&border_color=61dafb&hide_border=true"
     /></a>
   </details>
-</p>
 <details>
  <summary>🚀 Visitor Count</summary>
  <p><img src="https://profile-counter.glitch.me/syncwithadifens/count.svg" /></p>
