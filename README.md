@@ -96,7 +96,7 @@
 </p>
  <details>
     <summary>🚀 Dev Cards</summary>
-    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/syncwithadifens/syncwithadifens/blob/master/devcard.svg" width="400" alt="Afiv Dicky Efendy's Dev Card"/></a>
+    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/syncwithadifens/syncwithadifens/blob/main/devcard.svg" width="400" alt="Afiv Dicky Efendy's Dev Card"/></a>
   </details>
    <details>
     <summary>🚀 Most Used Languages</summary>
